@@ -24,7 +24,7 @@ That is enough.
 
 — *Slack-Stack*
 
-- Soul/*A Priori*
+- [Soul](https://ukb-dt.github.io/soul/)/*A Priori*
 - Body/*Data+Likelihood*
 - Mind/*Posteriori*
   
