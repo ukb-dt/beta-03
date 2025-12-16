@@ -1,5 +1,5 @@
 
-## Preface — Slack-Stack
+## Preface — [Slack-Stack](https://ukb-dt.github.io/slack-stack/)
 
 This document is not a theory of everything, nor a product specification, nor a moral treatise. It is a **working architecture**—an attempt to describe how a system might remain human under pressure.
 
